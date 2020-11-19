@@ -8,7 +8,7 @@ public class Digit1000Fib
 {
     public static void main(String args[]) throws IOException {
         File file = new File("Fibonacci.txt");
-        int h = 100;
+        int h = 1000;
         System.out.print("Starting...\n");
         file.createNewFile();
         FileWriter writer = new FileWriter(file);
