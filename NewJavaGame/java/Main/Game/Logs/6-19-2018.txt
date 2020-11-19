@@ -1,7 +1,0 @@
-6/19/2018 8:54:01 AM Opened Log!
-6/19/2018 8:54:01 AM SERVER ADMIN: /debug
-6/19/2018 8:54:01 AM [DEBUG] true
-6/19/2018 8:54:01 AM Starting server...
-6/19/2018 8:54:02 AM [DEBUG] Took 0.047921077 Seconds to start the server socket handler.
-6/19/2018 8:54:02 AM Server is being hosted on Darian/192.168.1.122:10000
-6/19/2018 8:54:02 AM [DEBUG] Took 0.145651135 Seconds to start the server.

@@ -1,4 +1,0 @@
-4/22/2018 7:45:24 PM Opened Log!
-4/22/2018 7:45:24 PM Starting server...
-4/22/2018 7:45:24 PM Server is being hosted on Darian/192.168.1.122:10000
-4/22/2018 7:45:40 PM New User Connected from /127.0.0.1:53088

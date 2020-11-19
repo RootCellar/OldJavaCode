@@ -1,3 +1,0 @@
-6/17/2018 11:59:35 AM Opened Log!
-6/17/2018 11:59:35 AM Starting server...
-6/17/2018 11:59:35 AM Server is being hosted on Darian/127.0.0.1:10001

@@ -1,3 +1,0 @@
-2/7/2018 2:37:41 PM Opened Log!
-2/7/2018 2:37:41 PM Starting server...
-2/7/2018 2:37:41 PM Server is being hosted on LTH-169-83562/10.140.2.140:10000

@@ -1,1 +1,0 @@
-0-10-2018 17-45-47 Log file created and opened\0-10-2018 17-45-47 Loading mods...\0-10-2018 17-45-47 Finished\0-10-2018 17-45-47 Loading abilities..\0-10-2018 17-45-47 Loading races...\0-10-2018 17-45-47 Loading classes...\0-10-2018 17-45-47 Finding open port...\0-10-2018 17-45-47 Server started with port 1\

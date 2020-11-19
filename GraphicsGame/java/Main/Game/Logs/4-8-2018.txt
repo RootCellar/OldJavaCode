@@ -1,9 +1,0 @@
-4/8/2018 5:11:32 PM Opened Log!
-4/8/2018 5:11:32 PM Starting server...
-4/8/2018 5:11:32 PM Level id is 31168322
-4/8/2018 5:11:32 PM Server is being hosted on Darian/192.168.1.122:10000
-4/8/2018 5:11:50 PM New User Connected From /127.0.0.1:49807
-4/8/2018 5:11:50 PM New User Joined From /127.0.0.1:49807
-4/8/2018 5:11:50 PM [SERVER] User connected
-4/8/2018 5:12:08 PM Removing a user: GUEST
-4/8/2018 5:12:08 PM [SERVER] User disconnected

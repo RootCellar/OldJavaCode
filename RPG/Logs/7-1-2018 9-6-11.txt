@@ -1,1 +1,0 @@
-7-1-2018 9-6-11 Log file created and opened\7-1-2018 9-6-11 Loading mods...\7-1-2018 9-6-11 Finished\7-1-2018 9-6-11 Loading abilities..\7-1-2018 9-6-11 Loading races...\7-1-2018 9-6-11 Loading classes...\7-1-2018 9-6-11 Finding open port...\7-1-2018 9-6-11 Server started with port 1\7-1-2018 9-6-16 Server shutting down...\7-1-2018 9-6-16 Server shut down successfully\

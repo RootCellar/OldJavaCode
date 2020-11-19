@@ -1,3 +1,0 @@
-2/11/2018 11:55:07 AM Opened Log!
-2/11/2018 11:55:07 AM Starting server...
-2/11/2018 11:55:07 AM Server is being hosted on Darian/127.0.0.1:10000
