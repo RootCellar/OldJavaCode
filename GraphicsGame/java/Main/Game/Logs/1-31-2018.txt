@@ -1,0 +1,165 @@
+1/31/2018 2:37:32 PM Opened Log!
+1/31/2018 2:37:32 PM Starting server...
+1/31/2018 2:37:32 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 2:37:32 PM New User Connected from /127.0.0.1:57531
+1/31/2018 2:40:38 PM Opened Log!
+1/31/2018 2:40:38 PM Starting server...
+1/31/2018 2:40:38 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 2:40:38 PM New User Connected from /127.0.0.1:57560
+1/31/2018 2:41:03 PM Opened Log!
+1/31/2018 2:41:03 PM Starting server...
+1/31/2018 2:41:03 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 2:41:03 PM New User Connected from /127.0.0.1:57579
+1/31/2018 2:43:32 PM Opened Log!
+1/31/2018 2:43:32 PM Starting server...
+1/31/2018 2:43:32 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 2:43:32 PM New User Connected from /127.0.0.1:57584
+1/31/2018 2:51:22 PM Opened Log!
+1/31/2018 2:51:22 PM Starting server...
+1/31/2018 2:51:22 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 2:51:22 PM New User Connected from /127.0.0.1:57710
+1/31/2018 2:56:54 PM Opened Log!
+1/31/2018 2:56:54 PM Starting server...
+1/31/2018 2:56:54 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 2:56:54 PM New User Connected from /127.0.0.1:57733
+1/31/2018 2:58:13 PM Opened Log!
+1/31/2018 2:58:13 PM Starting server...
+1/31/2018 2:58:13 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 2:58:13 PM New User Connected from /127.0.0.1:57737
+1/31/2018 2:58:18 PM [GUEST] Hi
+1/31/2018 2:58:22 PM SERVER ADMIN: /stop
+1/31/2018 2:58:22 PM Closing Server...
+1/31/2018 2:58:22 PM [SERVER] Closing Server...
+1/31/2018 2:59:35 PM Opened Log!
+1/31/2018 2:59:35 PM Starting server...
+1/31/2018 2:59:35 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 2:59:35 PM New User Connected from /127.0.0.1:57742
+1/31/2018 2:59:51 PM [GUEST] Hello
+1/31/2018 3:00:13 PM Opened Log!
+1/31/2018 3:00:13 PM Starting server...
+1/31/2018 3:00:13 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 3:00:17 PM Opened Log!
+1/31/2018 3:00:17 PM SERVER ADMIN: /debug
+1/31/2018 3:00:17 PM [DEBUG] true
+1/31/2018 3:00:17 PM Starting server...
+1/31/2018 3:00:17 PM [DEBUG] Took 0.002854086 Seconds to start the server socket handler.
+1/31/2018 3:00:17 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 3:00:17 PM [DEBUG] Took 0.023757288 Seconds to start the server.
+1/31/2018 3:00:39 PM Opened Log!
+1/31/2018 3:00:39 PM Starting server...
+1/31/2018 3:00:39 PM Server is being hosted on LTH-169-83563/10.140.4.99:10001
+1/31/2018 3:00:39 PM New User Connected from /127.0.0.1:57743
+1/31/2018 3:00:51 PM [GUEST] hola
+1/31/2018 3:01:06 PM SERVER ADMIN: /help
+1/31/2018 3:01:06 PM /halt - halt the server
+1/31/2018 3:01:06 PM /mmon - turn the match maker on and off
+1/31/2018 3:01:06 PM /stop - stop the server
+1/31/2018 3:01:06 PM /debug - enable debug mode
+1/31/2018 3:01:06 PM /open - open server socket, if it is not already open
+1/31/2018 3:01:06 PM /close - close server socket, stop accepting connections
+1/31/2018 3:01:06 PM /ttps <int> - set target tps for server
+1/31/2018 3:01:07 PM SERVER ADMIN: /stop
+1/31/2018 3:01:07 PM Closing Server...
+1/31/2018 3:01:07 PM [SERVER] Closing Server...
+1/31/2018 3:01:45 PM Opened Log!
+1/31/2018 3:01:45 PM Starting server...
+1/31/2018 3:01:45 PM Server is being hosted on LTH-169-83563/10.140.4.99:10001
+1/31/2018 3:01:45 PM New User Connected from /127.0.0.1:57751
+1/31/2018 3:01:51 PM SERVER ADMIN: hi
+1/31/2018 3:01:51 PM [SERVER] hi
+1/31/2018 3:02:06 PM New User Connected from /127.0.0.1:57752
+1/31/2018 3:02:14 PM [GUEST] Hi
+1/31/2018 3:03:29 PM Opened Log!
+1/31/2018 3:03:30 PM Starting server...
+1/31/2018 3:03:30 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 3:03:32 PM Opened Log!
+1/31/2018 3:03:32 PM SERVER ADMIN: /debug
+1/31/2018 3:03:32 PM [DEBUG] true
+1/31/2018 3:03:33 PM Starting server...
+1/31/2018 3:03:33 PM [DEBUG] Took 0.002585431 Seconds to start the server socket handler.
+1/31/2018 3:03:33 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 3:03:33 PM [DEBUG] Took 0.022264892 Seconds to start the server.
+1/31/2018 3:03:49 PM New User Connected from /127.0.0.1:57756
+1/31/2018 3:03:57 PM Removing a user: GUEST
+1/31/2018 3:05:19 PM Opened Log!
+1/31/2018 3:05:19 PM SERVER ADMIN: /debug
+1/31/2018 3:05:19 PM [DEBUG] true
+1/31/2018 3:05:20 PM Starting server...
+1/31/2018 3:05:20 PM [DEBUG] Took 0.002350282 Seconds to start the server socket handler.
+1/31/2018 3:05:20 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 3:05:20 PM [DEBUG] Took 0.019341982 Seconds to start the server.
+1/31/2018 3:05:50 PM SERVER ADMIN: /help
+1/31/2018 3:05:50 PM /halt - halt the server
+1/31/2018 3:05:50 PM /mmon - turn the match maker on and off
+1/31/2018 3:05:50 PM /stop - stop the server
+1/31/2018 3:05:50 PM /debug - enable debug mode
+1/31/2018 3:05:50 PM /open - open server socket, if it is not already open
+1/31/2018 3:05:50 PM /close - close server socket, stop accepting connections
+1/31/2018 3:05:50 PM /ttps <int> - set target tps for server
+1/31/2018 3:05:52 PM SERVER ADMIN: /ttps 10
+1/31/2018 3:05:52 PM Target tps set to 10
+1/31/2018 3:05:55 PM SERVER ADMIN: /ttps 5
+1/31/2018 3:05:55 PM Target tps set to 5
+1/31/2018 3:05:59 PM SERVER ADMIN: /ttps 1000
+1/31/2018 3:05:59 PM Target tps set to 1000
+1/31/2018 3:06:03 PM SERVER ADMIN: /ttps 10000
+1/31/2018 3:06:03 PM Target tps set to 10000
+1/31/2018 3:06:09 PM SERVER ADMIN: /ttps 100000
+1/31/2018 3:06:09 PM Target tps set to 100000
+1/31/2018 3:06:29 PM SERVER ADMIN: /debug
+1/31/2018 3:06:31 PM SERVER ADMIN: /debug
+1/31/2018 3:06:31 PM [DEBUG] true
+1/31/2018 3:07:13 PM SERVER ADMIN: /ttps 2
+1/31/2018 3:07:13 PM Target tps set to 2
+1/31/2018 3:07:25 PM SERVER ADMIN: /ttps 5000
+1/31/2018 3:07:25 PM Target tps set to 5000
+1/31/2018 3:07:32 PM SERVER ADMIN: /ttps 200
+1/31/2018 3:07:32 PM Target tps set to 200
+1/31/2018 3:07:41 PM SERVER ADMIN: /ttps 1
+1/31/2018 3:07:41 PM Target tps set to 1
+1/31/2018 3:07:52 PM SERVER ADMIN: /ttps 100
+1/31/2018 3:07:52 PM Target tps set to 100
+1/31/2018 3:08:13 PM SERVER ADMIN: /ttps 100000
+1/31/2018 3:08:13 PM Target tps set to 100000
+1/31/2018 3:08:45 PM SERVER ADMIN: /help
+1/31/2018 3:08:45 PM /halt - halt the server
+1/31/2018 3:08:45 PM /mmon - turn the match maker on and off
+1/31/2018 3:08:45 PM /stop - stop the server
+1/31/2018 3:08:45 PM /debug - enable debug mode
+1/31/2018 3:08:45 PM /open - open server socket, if it is not already open
+1/31/2018 3:08:45 PM /close - close server socket, stop accepting connections
+1/31/2018 3:08:45 PM /ttps <int> - set target tps for server
+1/31/2018 3:09:02 PM SERVER ADMIN: /ttps 500
+1/31/2018 3:09:02 PM Target tps set to 500
+1/31/2018 3:09:11 PM SERVER ADMIN: /ttps 50
+1/31/2018 3:09:11 PM Target tps set to 50
+1/31/2018 3:09:16 PM SERVER ADMIN: /ttps 20
+1/31/2018 3:09:16 PM Target tps set to 20
+1/31/2018 3:09:38 PM SERVER ADMIN: /ttps 100000
+1/31/2018 3:09:38 PM Target tps set to 100000
+1/31/2018 3:10:32 PM SERVER ADMIN: /ttps 20
+1/31/2018 3:10:32 PM Target tps set to 20
+1/31/2018 3:13:34 PM Opened Log!
+1/31/2018 3:13:34 PM SERVER ADMIN: /debug
+1/31/2018 3:13:34 PM [DEBUG] true
+1/31/2018 3:13:35 PM Starting server...
+1/31/2018 3:13:35 PM [DEBUG] Took 0.002283571 Seconds to start the server socket handler.
+1/31/2018 3:13:35 PM Server is being hosted on LTH-169-83563/10.140.4.99:10000
+1/31/2018 3:13:35 PM [DEBUG] Took 0.020604662 Seconds to start the server.
+1/31/2018 3:13:45 PM SERVER ADMIN: /help
+1/31/2018 3:13:45 PM /halt - halt the server
+1/31/2018 3:13:45 PM /mmon - turn the match maker on and off
+1/31/2018 3:13:45 PM /stop - stop the server
+1/31/2018 3:13:45 PM /debug - enable debug mode
+1/31/2018 3:13:45 PM /open - open server socket, if it is not already open
+1/31/2018 3:13:45 PM /close - close server socket, stop accepting connections
+1/31/2018 3:13:45 PM /ttps <int> - set target tps for server
+1/31/2018 3:13:49 PM SERVER ADMIN: /ttps 5
+1/31/2018 3:13:49 PM Target tps set to 5
+1/31/2018 3:14:02 PM New User Connected from /127.0.0.1:57782
+1/31/2018 3:14:10 PM Removing a user: GUEST
+1/31/2018 3:16:08 PM New User Connected from /127.0.0.1:57788
+1/31/2018 3:16:18 PM Removing a user: Person
+1/31/2018 3:16:31 PM SERVER ADMIN: /stop
+1/31/2018 3:16:31 PM Closing Server...
+1/31/2018 3:16:31 PM [SERVER] Closing Server...

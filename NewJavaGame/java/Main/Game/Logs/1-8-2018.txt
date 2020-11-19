@@ -1,0 +1,211 @@
+0/8/2018 6:50:10 PM Opened Log!
+0/8/2018 6:50:10 PM Starting server...
+0/8/2018 6:50:10 PM Took 0.003449583 Seconds to start server socket handler.
+0/8/2018 6:50:10 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 6:58:15 PM Opened Log!
+0/8/2018 6:58:16 PM Starting server...
+0/8/2018 6:58:16 PM Took 0.004279129 Seconds to start server socket handler.
+0/8/2018 6:58:16 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:00:50 PM Opened Log!
+0/8/2018 7:00:51 PM Starting server...
+0/8/2018 7:00:51 PM Took 0.006495154 Seconds to start server socket handler.
+0/8/2018 7:00:51 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:01:26 PM Opened Log!
+0/8/2018 7:01:26 PM Starting server...
+0/8/2018 7:01:26 PM Took 0.008323781 Seconds to start server socket handler.
+0/8/2018 7:01:27 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:02:28 PM Opened Log!
+0/8/2018 7:02:28 PM Starting server...
+0/8/2018 7:02:28 PM Took 0.003363117 Seconds to start server socket handler.
+0/8/2018 7:02:28 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:06:23 PM Opened Log!
+0/8/2018 7:06:23 PM Starting server...
+0/8/2018 7:06:23 PM Took 0.009648336 Seconds to start server socket handler.
+0/8/2018 7:06:23 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:06:46 PM SERVER ADMIN: /help
+0/8/2018 7:06:46 PM /halt - halt the server
+0/8/2018 7:06:46 PM /mmon - turn the match maker on and off
+0/8/2018 7:06:46 PM /stop - stop the server
+0/8/2018 7:07:06 PM SERVER ADMIN: /halt
+0/8/2018 7:07:06 PM Server activity halted!
+0/8/2018 7:12:12 PM Opened Log!
+0/8/2018 7:12:13 PM Starting server...
+0/8/2018 7:12:13 PM Took 0.003465064 Seconds to start server socket handler.
+0/8/2018 7:12:13 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:26:50 PM Opened Log!
+0/8/2018 7:26:50 PM Starting server...
+0/8/2018 7:26:50 PM [DEBUG] Took 0.004677478 Seconds to start the server socket handler.
+0/8/2018 7:26:50 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:26:50 PM [DEBUG] Took 1.133E-6 Seconds to start the server.
+0/8/2018 7:27:35 PM Opened Log!
+0/8/2018 7:27:35 PM Starting server...
+0/8/2018 7:27:35 PM [DEBUG] Took 0.008949433 Seconds to start the server socket handler.
+0/8/2018 7:27:35 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:27:35 PM [DEBUG] Took 0.028672394 Seconds to start the server.
+0/8/2018 7:30:39 PM Opened Log!
+0/8/2018 7:30:40 PM Starting server...
+0/8/2018 7:30:40 PM [DEBUG] Took 0.008005857 Seconds to start the server socket handler.
+0/8/2018 7:30:40 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:30:40 PM [DEBUG] Took 0.033528845 Seconds to start the server.
+0/8/2018 7:33:32 PM Opened Log!
+0/8/2018 7:33:32 PM Starting server...
+0/8/2018 7:33:32 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:33:57 PM Opened Log!
+0/8/2018 7:33:57 PM SERVER ADMIN: /debug
+0/8/2018 7:33:57 PM [DEBUG] true
+0/8/2018 7:33:57 PM Starting server...
+0/8/2018 7:33:57 PM [DEBUG] Took 0.008734212 Seconds to start the server socket handler.
+0/8/2018 7:33:57 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:33:57 PM [DEBUG] Took 0.031018684 Seconds to start the server.
+0/8/2018 7:34:33 PM Opened Log!
+0/8/2018 7:34:33 PM SERVER ADMIN: /debug
+0/8/2018 7:34:33 PM [DEBUG] true
+0/8/2018 7:34:33 PM Starting server...
+0/8/2018 7:34:33 PM [DEBUG] Took 0.004738646 Seconds to start the server socket handler.
+0/8/2018 7:34:33 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:34:33 PM [DEBUG] Took 0.027327449 Seconds to start the server.
+0/8/2018 7:34:45 PM Opened Log!
+0/8/2018 7:34:45 PM Starting server...
+0/8/2018 7:34:45 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:34:49 PM Opened Log!
+0/8/2018 7:34:49 PM SERVER ADMIN: /debug
+0/8/2018 7:34:49 PM [DEBUG] true
+0/8/2018 7:34:49 PM Starting server...
+0/8/2018 7:34:49 PM [DEBUG] Took 0.007943179 Seconds to start the server socket handler.
+0/8/2018 7:34:49 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/8/2018 7:34:49 PM [DEBUG] Took 0.029159851 Seconds to start the server.
+0/8/2018 8:06:50 PM Opened Log!
+0/8/2018 8:06:51 PM Starting server...
+0/8/2018 8:06:51 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+1/8/2018 8:41:50 PM Opened Log!
+1/8/2018 8:41:50 PM Starting server...
+1/8/2018 8:41:50 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+1/8/2018 8:42:22 PM New User Connected from /127.0.0.1:49197
+1/8/2018 8:42:27 PM New User Connected from /127.0.0.1:49198
+1/8/2018 8:42:46 PM [GUEST] Hello
+1/8/2018 8:42:58 PM [APERSON] Hello
+1/8/2018 8:43:07 PM [Darian] Hola, como estas?
+1/8/2018 8:44:31 PM SERVER ADMIN: Hello
+1/8/2018 8:44:31 PM [SERVER] Hello
+1/8/2018 8:47:40 PM SERVER ADMIN: Panzer
+1/8/2018 8:47:40 PM [SERVER] Panzer
+1/8/2018 8:47:44 PM SERVER ADMIN: Umm?
+1/8/2018 8:47:44 PM [SERVER] Umm?
+1/8/2018 8:47:49 PM SERVER ADMIN: thats great
+1/8/2018 8:47:49 PM [SERVER] thats great
+1/8/2018 8:48:08 PM Created a match!
+1/8/2018 8:51:20 PM [GUEST] Haha
+1/8/2018 8:53:48 PM Opened Log!
+1/8/2018 8:53:48 PM Starting server...
+1/8/2018 8:53:48 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+1/8/2018 8:54:15 PM New User Connected from /127.0.0.1:49215
+1/8/2018 8:54:21 PM New User Connected from /127.0.0.1:49216
+1/8/2018 8:54:36 PM Created a match!
+1/8/2018 8:56:00 PM Opened Log!
+1/8/2018 8:56:00 PM Starting server...
+1/8/2018 8:56:00 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+1/8/2018 8:56:17 PM New User Connected from /127.0.0.1:49218
+1/8/2018 8:56:50 PM New User Connected from /127.0.0.1:49219
+1/8/2018 8:57:07 PM Created a match!
+1/8/2018 8:57:15 PM SERVER ADMIN: /mmon
+1/8/2018 8:57:15 PM MatchMaker on: false
+1/8/2018 8:57:30 PM SERVER ADMIN: /mmon
+1/8/2018 8:57:30 PM MatchMaker on: true
+1/8/2018 8:57:30 PM Created a match!
+1/8/2018 8:57:33 PM SERVER ADMIN: /mmon
+1/8/2018 8:57:33 PM MatchMaker on: false
+1/8/2018 8:57:41 PM SERVER ADMIN: /mmon
+1/8/2018 8:57:41 PM MatchMaker on: true
+1/8/2018 9:00:43 PM Opened Log!
+1/8/2018 9:00:43 PM Starting server...
+1/8/2018 9:00:43 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+1/8/2018 9:01:18 PM New User Connected from /127.0.0.1:49222
+1/8/2018 9:01:29 PM New User Connected from /127.0.0.1:49223
+1/8/2018 9:01:53 PM SERVER ADMIN: /mmon
+1/8/2018 9:01:53 PM MatchMaker on: false
+1/8/2018 9:02:01 PM SERVER ADMIN: /mmon
+1/8/2018 9:02:01 PM MatchMaker on: true
+1/8/2018 9:02:01 PM Created a match!
+1/8/2018 9:04:49 PM Created a match!
+1/8/2018 9:09:37 PM SERVER ADMIN: /list
+1/8/2018 9:09:37 PM [SERVER] /list
+1/8/2018 9:09:40 PM SERVER ADMIN: /help
+1/8/2018 9:09:40 PM /halt - halt the server
+1/8/2018 9:09:40 PM /mmon - turn the match maker on and off
+1/8/2018 9:09:40 PM /stop - stop the server
+1/8/2018 9:09:40 PM /debug - enable debug mode
+1/8/2018 9:09:46 PM SERVER ADMIN: whelp, that's not a command
+1/8/2018 9:09:46 PM [SERVER] whelp, that's not a command
+1/8/2018 9:30:21 PM [GUEST] why did you quit?
+1/8/2018 9:30:25 PM [GUEST] what the heck?
+1/8/2018 9:30:31 PM [The Man] Hi
+1/8/2018 9:31:23 PM [The Man] Should I add Mods?
+1/8/2018 9:31:27 PM [GUEST] Maybe
+1/8/2018 9:31:34 PM [Darian] Maybe
+1/8/2018 9:33:55 PM SERVER ADMIN: Whelp
+1/8/2018 9:33:55 PM [SERVER] Whelp
+1/8/2018 9:34:00 PM SERVER ADMIN: i should make spectating
+1/8/2018 9:34:00 PM [SERVER] i should make spectating
+1/8/2018 9:40:13 PM SERVER ADMIN: /halt
+1/8/2018 9:40:13 PM Server activity halted!
+1/8/2018 9:40:27 PM SERVER ADMIN: /halt
+1/8/2018 9:40:27 PM Server activity no longer halted
+1/8/2018 9:40:34 PM SERVER ADMIN: /halt
+1/8/2018 9:40:34 PM Server activity halted!
+1/8/2018 9:40:49 PM SERVER ADMIN: /halt
+1/8/2018 9:40:49 PM Server activity no longer halted
+1/8/2018 9:40:53 PM SERVER ADMIN: /halt
+1/8/2018 9:40:53 PM Server activity halted!
+1/8/2018 9:40:56 PM SERVER ADMIN: /halt
+1/8/2018 9:40:56 PM Server activity no longer halted
+1/8/2018 9:40:58 PM SERVER ADMIN: /list
+1/8/2018 9:40:58 PM [SERVER] /list
+1/8/2018 9:41:01 PM SERVER ADMIN: /help
+1/8/2018 9:41:01 PM /halt - halt the server
+1/8/2018 9:41:01 PM /mmon - turn the match maker on and off
+1/8/2018 9:41:01 PM /stop - stop the server
+1/8/2018 9:41:01 PM /debug - enable debug mode
+1/8/2018 9:41:05 PM SERVER ADMIN: /mmon
+1/8/2018 9:41:05 PM MatchMaker on: false
+1/8/2018 9:41:07 PM SERVER ADMIN: /mmon
+1/8/2018 9:41:07 PM MatchMaker on: true
+1/8/2018 9:47:47 PM Opened Log!
+1/8/2018 9:47:47 PM Starting server...
+1/8/2018 9:47:47 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+1/8/2018 9:48:03 PM New User Connected from /127.0.0.1:49270
+1/8/2018 9:48:09 PM New User Connected from /127.0.0.1:49271
+1/8/2018 9:48:35 PM SERVER ADMIN: /halt
+1/8/2018 9:48:35 PM Server activity halted!
+1/8/2018 9:48:35 PM [SERVER] Server activity halted!
+1/8/2018 9:49:08 PM SERVER ADMIN: /mmon
+1/8/2018 9:49:08 PM MatchMaker on: false
+1/8/2018 9:49:08 PM [SERVER] MatchMaker Disabled
+1/8/2018 9:49:10 PM SERVER ADMIN: /mmon
+1/8/2018 9:49:10 PM MatchMaker on: true
+1/8/2018 9:49:10 PM [SERVER] MatchMaker Enabled
+1/8/2018 9:50:31 PM SERVER ADMIN: /halt
+1/8/2018 9:50:31 PM Server activity no longer halted
+1/8/2018 9:50:31 PM [SERVER] Server activity no longer halted
+1/8/2018 9:50:31 PM Created a match!
+1/8/2018 9:50:34 PM SERVER ADMIN: /halt
+1/8/2018 9:50:34 PM Server activity halted!
+1/8/2018 9:50:34 PM [SERVER] Server activity halted!
+1/8/2018 9:50:46 PM SERVER ADMIN: /halt
+1/8/2018 9:50:46 PM Server activity no longer halted
+1/8/2018 9:50:46 PM [SERVER] Server activity no longer halted
+1/8/2018 9:51:57 PM SERVER ADMIN: Hello
+1/8/2018 9:51:57 PM [SERVER] Hello
+1/8/2018 9:52:02 PM SERVER ADMIN: How is everyone?
+1/8/2018 9:52:02 PM [SERVER] How is everyone?
+1/8/2018 9:52:42 PM SERVER ADMIN: /help
+1/8/2018 9:52:42 PM /halt - halt the server
+1/8/2018 9:52:42 PM /mmon - turn the match maker on and off
+1/8/2018 9:52:42 PM /stop - stop the server
+1/8/2018 9:52:42 PM /debug - enable debug mode
+1/8/2018 9:56:45 PM SERVER ADMIN: That's Great
+1/8/2018 9:56:45 PM [SERVER] That's Great
+1/8/2018 9:56:57 PM SERVER ADMIN: Nice
+1/8/2018 9:56:57 PM [SERVER] Nice
+1/8/2018 9:58:36 PM SERVER ADMIN: /stop
+1/8/2018 9:58:36 PM Closing Server...
+1/8/2018 9:58:36 PM [SERVER] Closing Server...

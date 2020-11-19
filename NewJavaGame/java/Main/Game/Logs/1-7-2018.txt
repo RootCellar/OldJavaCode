@@ -1,0 +1,50 @@
+0/7/2018 3:12:56 PM Opened Log!
+0/7/2018 3:12:56 PM Starting server...
+0/7/2018 3:12:56 PM Took 0.007970742 Seconds to start server socket handler.
+0/7/2018 3:12:56 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/7/2018 3:13:06 PM SERVER ADMIN: /help
+0/7/2018 3:13:06 PM /halt - halt the server
+0/7/2018 3:13:06 PM /mmon - turn the match maker on and off
+0/7/2018 3:13:06 PM /stop - stop the server
+0/7/2018 3:13:22 PM SERVER ADMIN: /c
+0/7/2018 3:13:22 PM [SERVER] /c
+0/7/2018 3:13:35 PM SERVER ADMIN: IDK, something wierd is going on.
+0/7/2018 3:13:35 PM [SERVER] IDK, something wierd is going on.
+0/7/2018 3:15:39 PM Opened Log!
+0/7/2018 3:15:40 PM Starting server...
+0/7/2018 3:15:40 PM Took 0.003377088 Seconds to start server socket handler.
+0/7/2018 3:15:40 PM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+0/7/2018 4:32:09 PM Opened Log!
+0/7/2018 4:32:09 PM Starting server...
+0/7/2018 4:32:09 PM Took 0.007958282 Seconds to start server socket handler.
+0/7/2018 4:32:09 PM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000
+0/7/2018 4:32:33 PM SERVER ADMIN: /halt
+0/7/2018 4:32:33 PM Server activity halted!
+0/7/2018 4:32:59 PM SERVER ADMIN: /halt
+0/7/2018 4:32:59 PM Server activity no longer halted
+0/7/2018 4:37:01 PM Opened Log!
+0/7/2018 4:37:01 PM Starting server...
+0/7/2018 4:37:01 PM Took 0.003543979 Seconds to start server socket handler.
+0/7/2018 4:37:01 PM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000
+0/7/2018 4:37:41 PM Opened Log!
+0/7/2018 4:37:41 PM Starting server...
+0/7/2018 4:37:41 PM Took 0.004531731 Seconds to start server socket handler.
+0/7/2018 4:37:41 PM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000
+0/7/2018 4:38:52 PM SERVER ADMIN: /halt
+0/7/2018 4:38:52 PM Server activity halted!
+0/7/2018 4:39:00 PM SERVER ADMIN: /halt
+0/7/2018 4:39:00 PM Server activity no longer halted
+0/7/2018 4:39:03 PM SERVER ADMIN: /mmon
+0/7/2018 4:39:03 PM MatchMaker on: false
+0/7/2018 4:39:08 PM SERVER ADMIN: /mmon
+0/7/2018 4:39:08 PM MatchMaker on: true
+0/7/2018 4:39:59 PM SERVER ADMIN: /help
+0/7/2018 4:39:59 PM /halt - halt the server
+0/7/2018 4:39:59 PM /mmon - turn the match maker on and off
+0/7/2018 4:39:59 PM /stop - stop the server
+0/7/2018 4:40:02 PM SERVER ADMIN: hi
+0/7/2018 4:40:02 PM [SERVER] hi
+0/7/2018 4:40:38 PM Opened Log!
+0/7/2018 4:40:38 PM Starting server...
+0/7/2018 4:40:38 PM Took 0.009191085 Seconds to start server socket handler.
+0/7/2018 4:40:38 PM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000

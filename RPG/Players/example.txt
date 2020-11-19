@@ -1,0 +1,1 @@
+example Class: Normal Race: Human XP: 100000000 Gold: 0

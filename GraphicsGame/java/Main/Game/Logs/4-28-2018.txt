@@ -1,0 +1,18 @@
+4/28/2018 8:57:34 PM Opened Log!
+4/28/2018 8:57:34 PM Starting server...
+4/28/2018 8:57:34 PM Level id is 31168322
+4/28/2018 8:57:34 PM Server is being hosted on Darian/192.168.1.122:10000
+4/28/2018 8:57:56 PM New User Connected From /127.0.0.1:60049
+4/28/2018 8:57:56 PM New User Joined From /127.0.0.1:60049
+4/28/2018 8:57:56 PM [SERVER] User connected
+4/28/2018 8:58:07 PM PLAYER - Darian has joined the game.
+4/28/2018 8:58:30 PM SERVER ADMIN: /help
+4/28/2018 8:58:30 PM /halt - halt the server
+4/28/2018 8:58:30 PM /mmon - turn the match maker on and off
+4/28/2018 8:58:30 PM /stop - stop the server
+4/28/2018 8:58:30 PM /debug - enable debug mode
+4/28/2018 8:58:30 PM /open - open server socket, if it is not already open
+4/28/2018 8:58:30 PM /close - close server socket, stop accepting connections
+4/28/2018 8:58:30 PM /ttps <int> - set target tps for server
+4/28/2018 9:07:37 PM Removing a user: PLAYER - Darian
+4/28/2018 9:07:37 PM [SERVER] User disconnected

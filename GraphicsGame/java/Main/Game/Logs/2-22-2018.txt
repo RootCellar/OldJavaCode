@@ -1,0 +1,110 @@
+2/22/2018 7:38:16 PM Opened Log!
+2/22/2018 7:38:16 PM Starting server...
+2/22/2018 7:38:16 PM Server is being hosted on Darian/127.0.0.1:10000
+2/22/2018 7:38:31 PM New User Connected From /127.0.0.1:49362
+2/22/2018 7:38:31 PM New User Joined From /127.0.0.1:49362
+2/22/2018 7:38:31 PM [SERVER] User connected
+2/22/2018 7:38:34 PM New User Connected From /127.0.0.1:49363
+2/22/2018 7:38:34 PM New User Joined From /127.0.0.1:49363
+2/22/2018 7:38:34 PM [SERVER] User connected
+2/22/2018 7:38:34 PM Removing a user: GUEST
+2/22/2018 7:38:34 PM [SERVER] User disconnected
+2/22/2018 7:38:35 PM New User Connected From /127.0.0.1:49364
+2/22/2018 7:38:35 PM New User Joined From /127.0.0.1:49364
+2/22/2018 7:38:35 PM [SERVER] User connected
+2/22/2018 7:38:35 PM Removing a user: GUEST
+2/22/2018 7:38:35 PM [SERVER] User disconnected
+2/22/2018 7:39:27 PM [PLAYER - Darain] 
+2/22/2018 7:39:33 PM [PLAYER - Darain] I typed the wrong name
+2/22/2018 7:39:35 PM [PLAYER - Darain] DANG
+2/22/2018 7:40:02 PM Opened Log!
+2/22/2018 7:40:02 PM Starting server...
+2/22/2018 7:40:02 PM Server is being hosted on Darian/127.0.0.1:10000
+2/22/2018 7:40:22 PM New User Connected From /127.0.0.1:49365
+2/22/2018 7:40:22 PM New User Joined From /127.0.0.1:49365
+2/22/2018 7:40:22 PM [SERVER] User connected
+2/22/2018 7:41:25 PM Opened Log!
+2/22/2018 7:41:25 PM Starting server...
+2/22/2018 7:41:25 PM [DEBUG] Took 0.009412725 Seconds to start the server socket handler.
+2/22/2018 7:41:25 PM Server is being hosted on Darian/127.0.0.1:10000
+2/22/2018 7:41:25 PM [DEBUG] Took 0.029014105 Seconds to start the server.
+2/22/2018 7:41:25 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:26 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:27 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:28 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:29 PM Opened Log!
+2/22/2018 7:41:30 PM Opened Log!
+2/22/2018 7:41:30 PM Opened Log!
+2/22/2018 7:41:30 PM Opened Log!
+2/22/2018 7:41:30 PM Opened Log!
+2/22/2018 8:02:24 PM Opened Log!
+2/22/2018 8:02:24 PM Starting server...
+2/22/2018 8:02:24 PM Server is being hosted on Darian/127.0.0.1:10000
+2/22/2018 8:02:24 PM New User Connected From /127.0.0.1:49367
+2/22/2018 8:02:24 PM New User Joined From /127.0.0.1:49367
+2/22/2018 8:02:24 PM [SERVER] User connected
+2/22/2018 8:02:28 PM New User Connected From /127.0.0.1:49368
+2/22/2018 8:02:28 PM New User Joined From /127.0.0.1:49368
+2/22/2018 8:02:28 PM [SERVER] User connected
+2/22/2018 8:02:29 PM Removing a user: GUEST
+2/22/2018 8:02:29 PM [SERVER] User disconnected

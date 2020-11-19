@@ -1,0 +1,409 @@
+3/3/2018 2:26:34 PM Opened Log!
+3/3/2018 2:26:34 PM Starting server...
+3/3/2018 2:26:34 PM Level id is 11941824
+3/3/2018 2:26:34 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:26:34 PM New User Connected From /127.0.0.1:64722
+3/3/2018 2:26:34 PM New User Joined From /127.0.0.1:64722
+3/3/2018 2:26:34 PM [SERVER] User connected
+3/3/2018 2:26:54 PM PLAYER - Darian has joined the game.
+3/3/2018 2:28:08 PM Opened Log!
+3/3/2018 2:28:08 PM Starting server...
+3/3/2018 2:28:08 PM Level id is 16223749
+3/3/2018 2:28:08 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:28:08 PM New User Connected From /127.0.0.1:64723
+3/3/2018 2:28:08 PM New User Joined From /127.0.0.1:64723
+3/3/2018 2:28:08 PM Removing a user: GUEST
+3/3/2018 2:28:08 PM [SERVER] User connected
+3/3/2018 2:28:08 PM [SERVER] User disconnected
+3/3/2018 2:28:22 PM Opened Log!
+3/3/2018 2:28:22 PM Starting server...
+3/3/2018 2:28:22 PM Level id is 16223749
+3/3/2018 2:28:22 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:28:22 PM New User Connected From /127.0.0.1:64724
+3/3/2018 2:28:22 PM New User Joined From /127.0.0.1:64724
+3/3/2018 2:28:22 PM [SERVER] User connected
+3/3/2018 2:28:22 PM Removing a user: GUEST
+3/3/2018 2:28:22 PM [SERVER] User disconnected
+3/3/2018 2:28:30 PM New User Connected From /127.0.0.1:64725
+3/3/2018 2:28:30 PM New User Joined From /127.0.0.1:64725
+3/3/2018 2:28:30 PM [SERVER] User connected
+3/3/2018 2:29:13 PM Opened Log!
+3/3/2018 2:29:13 PM Starting server...
+3/3/2018 2:29:13 PM Level id is 16223749
+3/3/2018 2:29:13 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:29:13 PM New User Connected From /127.0.0.1:64727
+3/3/2018 2:29:13 PM New User Joined From /127.0.0.1:64727
+3/3/2018 2:29:13 PM [SERVER] User connected
+3/3/2018 2:29:36 PM PLAYER - Darian has joined the game.
+3/3/2018 2:29:36 PM Removing a user: PLAYER - Darian
+3/3/2018 2:29:36 PM [SERVER] User disconnected
+3/3/2018 2:29:50 PM Opened Log!
+3/3/2018 2:29:50 PM Starting server...
+3/3/2018 2:29:50 PM Level id is 16223749
+3/3/2018 2:29:50 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:29:50 PM New User Connected From /127.0.0.1:64728
+3/3/2018 2:29:50 PM New User Joined From /127.0.0.1:64728
+3/3/2018 2:29:50 PM [SERVER] User connected
+3/3/2018 2:29:55 PM PLAYER - Darian has joined the game.
+3/3/2018 2:29:56 PM [PLAYER - Darian] hi
+3/3/2018 2:30:01 PM [PLAYER - Darian] hi
+3/3/2018 2:30:13 PM SERVER ADMIN: hi
+3/3/2018 2:30:13 PM [SERVER ADMIN] hi
+3/3/2018 2:30:14 PM SERVER ADMIN: hi
+3/3/2018 2:30:14 PM [SERVER ADMIN] hi
+3/3/2018 2:30:19 PM [PLAYER - Darian] Hello
+3/3/2018 2:30:27 PM SERVER ADMIN: what
+3/3/2018 2:30:27 PM [SERVER ADMIN] what
+3/3/2018 2:30:43 PM [PLAYER - Darian] d
+3/3/2018 2:30:49 PM [PLAYER - Darian] what is happening
+3/3/2018 2:30:54 PM SERVER ADMIN: send it
+3/3/2018 2:30:54 PM [SERVER ADMIN] send it
+3/3/2018 2:31:37 PM Opened Log!
+3/3/2018 2:31:37 PM Starting server...
+3/3/2018 2:31:37 PM Level id is 16223749
+3/3/2018 2:31:37 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:31:37 PM New User Connected From /127.0.0.1:64731
+3/3/2018 2:31:37 PM New User Joined From /127.0.0.1:64731
+3/3/2018 2:31:37 PM [SERVER] User connected
+3/3/2018 2:31:46 PM [PLAYER - Darian] hi
+3/3/2018 2:31:50 PM [PLAYER - Darian] ok
+3/3/2018 2:31:52 PM PLAYER - Darian has joined the game.
+3/3/2018 2:31:53 PM [PLAYER - Darian] hi
+3/3/2018 2:31:58 PM [PLAYER - Darian] hello
+3/3/2018 2:32:16 PM [PLAYER - Darian] hi
+3/3/2018 2:32:58 PM Opened Log!
+3/3/2018 2:32:58 PM Starting server...
+3/3/2018 2:32:58 PM Level id is 1004549
+3/3/2018 2:32:58 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:32:58 PM New User Connected From /127.0.0.1:64732
+3/3/2018 2:32:58 PM New User Joined From /127.0.0.1:64732
+3/3/2018 2:32:59 PM [SERVER] User connected
+3/3/2018 2:33:02 PM PLAYER - Darian has joined the game.
+3/3/2018 2:33:03 PM [PLAYER - Darian] hi
+3/3/2018 2:33:06 PM [PLAYER - Darian] Hello
+3/3/2018 2:33:09 PM [PLAYER - Darian] this is great
+3/3/2018 2:33:31 PM [PLAYER - Darian] Hello
+3/3/2018 2:33:38 PM [PLAYER - Darian] this is great
+3/3/2018 2:33:52 PM [PLAYER - Darian] This is great
+3/3/2018 2:35:34 PM Opened Log!
+3/3/2018 2:35:34 PM Starting server...
+3/3/2018 2:35:34 PM Level id is 8977003
+3/3/2018 2:35:34 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:35:34 PM New User Connected From /127.0.0.1:64737
+3/3/2018 2:35:34 PM New User Joined From /127.0.0.1:64737
+3/3/2018 2:35:34 PM [SERVER] User connected
+3/3/2018 2:35:40 PM PLAYER - Darian has joined the game.
+3/3/2018 2:37:45 PM Opened Log!
+3/3/2018 2:37:45 PM Starting server...
+3/3/2018 2:37:45 PM Level id is 1812962
+3/3/2018 2:37:45 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:37:45 PM New User Connected From /127.0.0.1:64744
+3/3/2018 2:37:45 PM New User Joined From /127.0.0.1:64744
+3/3/2018 2:37:45 PM [SERVER] User connected
+3/3/2018 2:37:51 PM PLAYER - Darian has joined the game.
+3/3/2018 2:40:31 PM Opened Log!
+3/3/2018 2:40:31 PM Starting server...
+3/3/2018 2:40:31 PM Level id is 26076128
+3/3/2018 2:40:31 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:40:31 PM New User Connected From /127.0.0.1:64746
+3/3/2018 2:40:31 PM New User Joined From /127.0.0.1:64746
+3/3/2018 2:40:31 PM [SERVER] User connected
+3/3/2018 2:40:38 PM PLAYER - Darian has joined the game.
+3/3/2018 2:41:10 PM Opened Log!
+3/3/2018 2:41:10 PM Starting server...
+3/3/2018 2:41:10 PM Level id is 13640999
+3/3/2018 2:41:10 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:41:10 PM New User Connected From /127.0.0.1:64747
+3/3/2018 2:41:10 PM New User Joined From /127.0.0.1:64747
+3/3/2018 2:41:10 PM [SERVER] User connected
+3/3/2018 2:41:15 PM PLAYER - Darian has joined the game.
+3/3/2018 2:41:31 PM [PLAYER - Darian] hi
+3/3/2018 2:41:55 PM Opened Log!
+3/3/2018 2:41:55 PM Starting server...
+3/3/2018 2:41:55 PM Level id is 214116
+3/3/2018 2:41:55 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:41:55 PM New User Connected From /127.0.0.1:64748
+3/3/2018 2:41:55 PM New User Joined From /127.0.0.1:64748
+3/3/2018 2:41:55 PM [SERVER] User connected
+3/3/2018 2:41:59 PM PLAYER - Darian has joined the game.
+3/3/2018 2:42:10 PM [PLAYER - Darian] hi
+3/3/2018 2:42:32 PM Opened Log!
+3/3/2018 2:42:32 PM Starting server...
+3/3/2018 2:42:32 PM Level id is 26076128
+3/3/2018 2:42:32 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:42:32 PM New User Connected From /127.0.0.1:64749
+3/3/2018 2:42:32 PM New User Joined From /127.0.0.1:64749
+3/3/2018 2:42:32 PM [SERVER] User connected
+3/3/2018 2:42:37 PM PLAYER - Darian has joined the game.
+3/3/2018 2:46:13 PM Opened Log!
+3/3/2018 2:46:13 PM Starting server...
+3/3/2018 2:46:13 PM Level id is 26076128
+3/3/2018 2:46:13 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:46:13 PM New User Connected From /127.0.0.1:64754
+3/3/2018 2:46:13 PM New User Joined From /127.0.0.1:64754
+3/3/2018 2:46:13 PM [SERVER] User connected
+3/3/2018 2:46:17 PM PLAYER - Darian has joined the game.
+3/3/2018 2:46:51 PM Opened Log!
+3/3/2018 2:46:51 PM Starting server...
+3/3/2018 2:46:51 PM Level id is 214116
+3/3/2018 2:46:51 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:46:51 PM New User Connected From /127.0.0.1:64755
+3/3/2018 2:46:51 PM New User Joined From /127.0.0.1:64755
+3/3/2018 2:46:51 PM [SERVER] User connected
+3/3/2018 2:46:55 PM PLAYER - Darian has joined the game.
+3/3/2018 2:47:02 PM [PLAYER - Darian] hi
+3/3/2018 2:48:59 PM Opened Log!
+3/3/2018 2:48:59 PM Starting server...
+3/3/2018 2:48:59 PM Level id is 13640999
+3/3/2018 2:48:59 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:48:59 PM New User Connected From /127.0.0.1:64756
+3/3/2018 2:48:59 PM New User Joined From /127.0.0.1:64756
+3/3/2018 2:48:59 PM [SERVER] User connected
+3/3/2018 2:49:04 PM PLAYER - Darian has joined the game.
+3/3/2018 2:49:16 PM Removing a user: PLAYER - Darian
+3/3/2018 2:49:16 PM [SERVER] User disconnected
+3/3/2018 2:49:16 PM New User Connected From /127.0.0.1:64757
+3/3/2018 2:49:16 PM New User Joined From /127.0.0.1:64757
+3/3/2018 2:49:16 PM [SERVER] User connected
+3/3/2018 2:49:21 PM PLAYER - Darian has joined the game.
+3/3/2018 2:51:05 PM Opened Log!
+3/3/2018 2:51:05 PM Starting server...
+3/3/2018 2:51:05 PM Level id is 22582046
+3/3/2018 2:51:05 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:51:05 PM New User Connected From /127.0.0.1:64759
+3/3/2018 2:51:05 PM New User Joined From /127.0.0.1:64759
+3/3/2018 2:51:05 PM [SERVER] User connected
+3/3/2018 2:51:11 PM PLAYER - Darian has joined the game.
+3/3/2018 2:55:35 PM Opened Log!
+3/3/2018 2:55:35 PM Starting server...
+3/3/2018 2:55:35 PM Level id is 22582046
+3/3/2018 2:55:35 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:55:35 PM New User Connected From /127.0.0.1:64765
+3/3/2018 2:55:35 PM New User Joined From /127.0.0.1:64765
+3/3/2018 2:55:35 PM [SERVER] User connected
+3/3/2018 2:55:39 PM PLAYER - Darian has joined the game.
+3/3/2018 2:58:27 PM Opened Log!
+3/3/2018 2:58:27 PM Starting server...
+3/3/2018 2:58:27 PM Level id is 22582046
+3/3/2018 2:58:27 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:58:27 PM New User Connected From /127.0.0.1:64766
+3/3/2018 2:58:28 PM New User Joined From /127.0.0.1:64766
+3/3/2018 2:58:28 PM [SERVER] User connected
+3/3/2018 2:58:32 PM PLAYER - Darian has joined the game.
+3/3/2018 2:59:17 PM Opened Log!
+3/3/2018 2:59:17 PM Starting server...
+3/3/2018 2:59:17 PM Level id is 22582046
+3/3/2018 2:59:17 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 2:59:17 PM New User Connected From /127.0.0.1:64768
+3/3/2018 2:59:17 PM New User Joined From /127.0.0.1:64768
+3/3/2018 2:59:17 PM [SERVER] User connected
+3/3/2018 2:59:21 PM PLAYER - Darian has joined the game.
+3/3/2018 3:00:22 PM Opened Log!
+3/3/2018 3:00:22 PM Starting server...
+3/3/2018 3:00:22 PM Level id is 1812962
+3/3/2018 3:00:22 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:00:22 PM New User Connected From /127.0.0.1:64769
+3/3/2018 3:00:22 PM New User Joined From /127.0.0.1:64769
+3/3/2018 3:00:22 PM [SERVER] User connected
+3/3/2018 3:00:26 PM PLAYER - Darian has joined the game.
+3/3/2018 3:01:01 PM Opened Log!
+3/3/2018 3:01:01 PM Starting server...
+3/3/2018 3:01:01 PM Level id is 1812962
+3/3/2018 3:01:01 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:01:01 PM New User Connected From /127.0.0.1:64770
+3/3/2018 3:01:01 PM New User Joined From /127.0.0.1:64770
+3/3/2018 3:01:01 PM [SERVER] User connected
+3/3/2018 3:01:08 PM PLAYER - Darian has joined the game.
+3/3/2018 3:01:11 PM Removing a user: PLAYER - Darian
+3/3/2018 3:01:11 PM [SERVER] User disconnected
+3/3/2018 3:01:11 PM New User Connected From /127.0.0.1:64771
+3/3/2018 3:01:11 PM New User Joined From /127.0.0.1:64771
+3/3/2018 3:01:11 PM [SERVER] User connected
+3/3/2018 3:01:15 PM PLAYER - Darian has joined the game.
+3/3/2018 3:01:55 PM Opened Log!
+3/3/2018 3:01:55 PM Starting server...
+3/3/2018 3:01:55 PM Level id is 26076128
+3/3/2018 3:01:55 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:01:55 PM New User Connected From /127.0.0.1:64775
+3/3/2018 3:01:55 PM New User Joined From /127.0.0.1:64775
+3/3/2018 3:01:55 PM [SERVER] User connected
+3/3/2018 3:03:02 PM Opened Log!
+3/3/2018 3:03:02 PM Starting server...
+3/3/2018 3:03:02 PM Level id is 1812962
+3/3/2018 3:03:02 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:03:02 PM New User Connected From /127.0.0.1:64783
+3/3/2018 3:03:02 PM New User Joined From /127.0.0.1:64783
+3/3/2018 3:03:02 PM [SERVER] User connected
+3/3/2018 3:03:07 PM PLAYER - Darian has joined the game.
+3/3/2018 3:03:07 PM Removing a user: PLAYER - Darian
+3/3/2018 3:03:07 PM [SERVER] User disconnected
+3/3/2018 3:03:20 PM Opened Log!
+3/3/2018 3:03:20 PM Starting server...
+3/3/2018 3:03:20 PM Level id is 26076128
+3/3/2018 3:03:20 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:03:20 PM New User Connected From /127.0.0.1:64784
+3/3/2018 3:03:20 PM New User Joined From /127.0.0.1:64784
+3/3/2018 3:03:20 PM [SERVER] User connected
+3/3/2018 3:03:25 PM PLAYER - Darian has joined the game.
+3/3/2018 3:04:33 PM Opened Log!
+3/3/2018 3:04:33 PM Starting server...
+3/3/2018 3:04:33 PM Level id is 26076128
+3/3/2018 3:04:33 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:04:33 PM New User Connected From /127.0.0.1:64785
+3/3/2018 3:04:33 PM New User Joined From /127.0.0.1:64785
+3/3/2018 3:04:33 PM [SERVER] User connected
+3/3/2018 3:04:38 PM PLAYER - Darian has joined the game.
+3/3/2018 3:05:32 PM Opened Log!
+3/3/2018 3:05:32 PM Starting server...
+3/3/2018 3:05:32 PM Level id is 1812962
+3/3/2018 3:05:32 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:05:33 PM New User Connected From /127.0.0.1:64786
+3/3/2018 3:05:33 PM New User Joined From /127.0.0.1:64786
+3/3/2018 3:05:33 PM [SERVER] User connected
+3/3/2018 3:05:37 PM PLAYER - Darian has joined the game.
+3/3/2018 3:07:51 PM Opened Log!
+3/3/2018 3:07:51 PM Starting server...
+3/3/2018 3:07:51 PM Level id is 26076128
+3/3/2018 3:07:51 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:07:51 PM New User Connected From /127.0.0.1:64789
+3/3/2018 3:07:51 PM New User Joined From /127.0.0.1:64789
+3/3/2018 3:07:51 PM [SERVER] User connected
+3/3/2018 3:07:59 PM PLAYER - Darian has joined the game.
+3/3/2018 3:12:21 PM Opened Log!
+3/3/2018 3:12:21 PM Starting server...
+3/3/2018 3:12:21 PM Level id is 26076128
+3/3/2018 3:12:21 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:12:21 PM New User Connected From /127.0.0.1:64919
+3/3/2018 3:12:21 PM New User Joined From /127.0.0.1:64919
+3/3/2018 3:12:21 PM [SERVER] User connected
+3/3/2018 3:12:26 PM PLAYER - Darian has joined the game.
+3/3/2018 3:14:59 PM Opened Log!
+3/3/2018 3:14:59 PM Starting server...
+3/3/2018 3:14:59 PM Level id is 1812962
+3/3/2018 3:14:59 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:14:59 PM New User Connected From /127.0.0.1:64931
+3/3/2018 3:14:59 PM New User Joined From /127.0.0.1:64931
+3/3/2018 3:14:59 PM [SERVER] User connected
+3/3/2018 3:15:03 PM PLAYER - Darian has joined the game.
+3/3/2018 3:15:49 PM Opened Log!
+3/3/2018 3:15:49 PM Starting server...
+3/3/2018 3:15:49 PM Level id is 1812962
+3/3/2018 3:15:49 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:15:49 PM New User Connected From /127.0.0.1:64932
+3/3/2018 3:15:49 PM New User Joined From /127.0.0.1:64932
+3/3/2018 3:15:49 PM [SERVER] User connected
+3/3/2018 3:15:53 PM PLAYER - Darian has joined the game.
+3/3/2018 3:15:53 PM Removing a user: PLAYER - Darian
+3/3/2018 3:15:53 PM [SERVER] User disconnected
+3/3/2018 3:17:40 PM Opened Log!
+3/3/2018 3:17:40 PM Starting server...
+3/3/2018 3:17:40 PM Level id is 1812962
+3/3/2018 3:17:40 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:17:40 PM New User Connected From /127.0.0.1:64933
+3/3/2018 3:17:40 PM New User Joined From /127.0.0.1:64933
+3/3/2018 3:17:40 PM [SERVER] User connected
+3/3/2018 3:17:44 PM PLAYER - Darian has joined the game.
+3/3/2018 3:18:30 PM Opened Log!
+3/3/2018 3:18:30 PM Starting server...
+3/3/2018 3:18:30 PM Level id is 26076128
+3/3/2018 3:18:30 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:18:30 PM New User Connected From /127.0.0.1:64934
+3/3/2018 3:18:30 PM New User Joined From /127.0.0.1:64934
+3/3/2018 3:18:30 PM [SERVER] User connected
+3/3/2018 3:18:39 PM PLAYER - Darian has joined the game.
+3/3/2018 3:18:39 PM Removing a user: PLAYER - Darian
+3/3/2018 3:18:39 PM [SERVER] User disconnected
+3/3/2018 3:18:46 PM Opened Log!
+3/3/2018 3:18:46 PM Starting server...
+3/3/2018 3:18:46 PM Level id is 1812962
+3/3/2018 3:18:46 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:18:46 PM New User Connected From /127.0.0.1:64935
+3/3/2018 3:18:47 PM New User Joined From /127.0.0.1:64935
+3/3/2018 3:18:47 PM [SERVER] User connected
+3/3/2018 3:18:51 PM PLAYER - Darian has joined the game.
+3/3/2018 3:19:34 PM Opened Log!
+3/3/2018 3:19:34 PM Starting server...
+3/3/2018 3:19:34 PM Level id is 26076128
+3/3/2018 3:19:34 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:19:34 PM New User Connected From /127.0.0.1:64936
+3/3/2018 3:19:34 PM New User Joined From /127.0.0.1:64936
+3/3/2018 3:19:34 PM [SERVER] User connected
+3/3/2018 3:19:39 PM PLAYER - Darian has joined the game.
+3/3/2018 3:19:39 PM Removing a user: PLAYER - Darian
+3/3/2018 3:19:39 PM [SERVER] User disconnected
+3/3/2018 3:19:48 PM Opened Log!
+3/3/2018 3:19:48 PM Starting server...
+3/3/2018 3:19:48 PM Level id is 1812962
+3/3/2018 3:19:48 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:19:48 PM New User Connected From /127.0.0.1:64937
+3/3/2018 3:19:48 PM New User Joined From /127.0.0.1:64937
+3/3/2018 3:19:48 PM [SERVER] User connected
+3/3/2018 3:19:53 PM PLAYER - Darian has joined the game.
+3/3/2018 3:20:34 PM Opened Log!
+3/3/2018 3:20:34 PM Starting server...
+3/3/2018 3:20:34 PM Level id is 26076128
+3/3/2018 3:20:34 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:20:34 PM New User Connected From /127.0.0.1:64938
+3/3/2018 3:20:34 PM New User Joined From /127.0.0.1:64938
+3/3/2018 3:20:34 PM [SERVER] User connected
+3/3/2018 3:20:40 PM PLAYER - Darian has joined the game.
+3/3/2018 3:21:10 PM Opened Log!
+3/3/2018 3:21:10 PM Starting server...
+3/3/2018 3:21:10 PM Level id is 26076128
+3/3/2018 3:21:10 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:21:10 PM New User Connected From /127.0.0.1:64939
+3/3/2018 3:21:10 PM New User Joined From /127.0.0.1:64939
+3/3/2018 3:21:10 PM [SERVER] User connected
+3/3/2018 3:21:14 PM PLAYER - Darian has joined the game.
+3/3/2018 3:21:14 PM Removing a user: PLAYER - Darian
+3/3/2018 3:21:14 PM [SERVER] User disconnected
+3/3/2018 3:21:20 PM Opened Log!
+3/3/2018 3:21:20 PM Starting server...
+3/3/2018 3:21:20 PM Level id is 1812962
+3/3/2018 3:21:20 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:21:20 PM New User Connected From /127.0.0.1:64940
+3/3/2018 3:21:20 PM New User Joined From /127.0.0.1:64940
+3/3/2018 3:21:20 PM [SERVER] User connected
+3/3/2018 3:21:24 PM PLAYER - Darian has joined the game.
+3/3/2018 3:22:23 PM Opened Log!
+3/3/2018 3:22:23 PM Starting server...
+3/3/2018 3:22:23 PM Level id is 1812962
+3/3/2018 3:22:23 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:22:23 PM New User Connected From /127.0.0.1:64941
+3/3/2018 3:22:23 PM New User Joined From /127.0.0.1:64941
+3/3/2018 3:22:23 PM [SERVER] User connected
+3/3/2018 3:22:29 PM PLAYER - Darian has joined the game.
+3/3/2018 3:23:24 PM Opened Log!
+3/3/2018 3:23:24 PM Starting server...
+3/3/2018 3:23:24 PM Level id is 1812962
+3/3/2018 3:23:24 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:23:24 PM New User Connected From /127.0.0.1:64942
+3/3/2018 3:23:24 PM New User Joined From /127.0.0.1:64942
+3/3/2018 3:23:24 PM [SERVER] User connected
+3/3/2018 3:23:30 PM PLAYER - Darian has joined the game.
+3/3/2018 3:25:33 PM Opened Log!
+3/3/2018 3:25:33 PM Starting server...
+3/3/2018 3:25:33 PM Level id is 13640999
+3/3/2018 3:25:33 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:25:33 PM New User Connected From /127.0.0.1:64945
+3/3/2018 3:25:33 PM New User Joined From /127.0.0.1:64945
+3/3/2018 3:25:33 PM [SERVER] User connected
+3/3/2018 3:25:37 PM PLAYER - Darian has joined the game.
+3/3/2018 3:25:37 PM Removing a user: PLAYER - Darian
+3/3/2018 3:25:37 PM [SERVER] User disconnected
+3/3/2018 3:25:46 PM Opened Log!
+3/3/2018 3:25:46 PM Starting server...
+3/3/2018 3:25:46 PM Level id is 214116
+3/3/2018 3:25:46 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:25:46 PM New User Connected From /127.0.0.1:64947
+3/3/2018 3:25:46 PM New User Joined From /127.0.0.1:64947
+3/3/2018 3:25:46 PM [SERVER] User connected
+3/3/2018 3:25:50 PM PLAYER - Darian has joined the game.
+3/3/2018 3:26:12 PM Opened Log!
+3/3/2018 3:26:12 PM Starting server...
+3/3/2018 3:26:12 PM Level id is 13640999
+3/3/2018 3:26:12 PM Server is being hosted on Darian/192.168.1.122:10000
+3/3/2018 3:26:12 PM New User Connected From /127.0.0.1:64948
+3/3/2018 3:26:12 PM New User Joined From /127.0.0.1:64948
+3/3/2018 3:26:12 PM [SERVER] User connected
+3/3/2018 3:26:17 PM PLAYER - Darian has joined the game.

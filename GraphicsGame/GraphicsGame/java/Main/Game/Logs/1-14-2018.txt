@@ -1,0 +1,163 @@
+1/14/2018 11:29:04 AM Opened Log!
+1/14/2018 11:29:04 AM Starting server...
+1/14/2018 11:29:04 AM Server is being hosted on LAPTOP-GG02DGET/192.168.1.122:10000
+1/14/2018 11:30:03 AM SERVER ADMIN: /debug
+1/14/2018 11:30:03 AM [DEBUG] true
+1/14/2018 11:30:05 AM SERVER ADMIN: /help
+1/14/2018 11:30:05 AM /halt - halt the server
+1/14/2018 11:30:05 AM /mmon - turn the match maker on and off
+1/14/2018 11:30:05 AM /stop - stop the server
+1/14/2018 11:30:05 AM /debug - enable debug mode
+1/14/2018 11:30:05 AM /open - open server socket, if it is not already open
+1/14/2018 11:30:05 AM /close - close server socket, stop accepting connections
+1/14/2018 11:33:21 AM SERVER ADMIN: yay! 250 seconds.
+1/14/2018 11:33:21 AM [SERVER] yay! 250 seconds.
+1/14/2018 11:34:27 AM SERVER ADMIN: 320 seconds
+1/14/2018 11:34:27 AM [SERVER] 320 seconds
+1/14/2018 11:36:24 AM SERVER ADMIN: yay, 440 seconds!
+1/14/2018 11:36:24 AM [SERVER] yay, 440 seconds!
+1/14/2018 11:37:04 AM SERVER ADMIN: yay 480
+1/14/2018 11:37:04 AM [SERVER] yay 480
+1/14/2018 11:37:59 AM New User Connected from /127.0.0.1:59525
+1/14/2018 11:38:26 AM [CoolName] Hello
+1/14/2018 11:53:05 AM [CoolName] Hola, peeops
+1/14/2018 11:54:05 AM SERVER ADMIN: /close
+1/14/2018 11:54:05 AM Stopping server socket handler...
+1/14/2018 11:54:10 AM SERVER ADMIN: /help
+1/14/2018 11:54:10 AM /halt - halt the server
+1/14/2018 11:54:10 AM /mmon - turn the match maker on and off
+1/14/2018 11:54:10 AM /stop - stop the server
+1/14/2018 11:54:10 AM /debug - enable debug mode
+1/14/2018 11:54:10 AM /open - open server socket, if it is not already open
+1/14/2018 11:54:10 AM /close - close server socket, stop accepting connections
+1/14/2018 11:54:12 AM SERVER ADMIN: /open
+1/14/2018 11:54:12 AM Opening server socket handler...
+1/14/2018 11:54:12 AM [DEBUG] Took 2.26926E-4 Seconds to start the server socket handler.
+1/14/2018 11:54:35 AM SERVER ADMIN: /halt
+1/14/2018 11:54:35 AM Server activity halted!
+1/14/2018 11:54:35 AM [SERVER] Server activity halted!
+1/14/2018 11:54:44 AM SERVER ADMIN: /halt
+1/14/2018 11:54:44 AM Server activity no longer halted
+1/14/2018 11:54:44 AM [SERVER] Server activity no longer halted
+1/14/2018 11:54:48 AM SERVER ADMIN: /mmon
+1/14/2018 11:54:48 AM MatchMaker on: false
+1/14/2018 11:54:48 AM [SERVER] MatchMaker Disabled
+1/14/2018 11:54:52 AM SERVER ADMIN: /mmon
+1/14/2018 11:54:52 AM MatchMaker on: true
+1/14/2018 11:54:52 AM [SERVER] MatchMaker Enabled
+1/14/2018 11:55:12 AM New User Connected from /127.0.0.1:59662
+1/14/2018 11:55:24 AM Created a match!
+1/14/2018 11:56:45 AM SERVER ADMIN: /mmon
+1/14/2018 11:56:45 AM MatchMaker on: false
+1/14/2018 11:56:45 AM [SERVER] MatchMaker Disabled
+1/14/2018 11:56:55 AM SERVER ADMIN: /mmon
+1/14/2018 11:56:55 AM MatchMaker on: true
+1/14/2018 11:56:55 AM [SERVER] MatchMaker Enabled
+1/14/2018 11:56:55 AM Created a match!
+1/14/2018 11:57:10 AM SERVER ADMIN: /help
+1/14/2018 11:57:10 AM /halt - halt the server
+1/14/2018 11:57:10 AM /mmon - turn the match maker on and off
+1/14/2018 11:57:10 AM /stop - stop the server
+1/14/2018 11:57:10 AM /debug - enable debug mode
+1/14/2018 11:57:10 AM /open - open server socket, if it is not already open
+1/14/2018 11:57:10 AM /close - close server socket, stop accepting connections
+1/14/2018 11:57:50 AM SERVER ADMIN: Ok
+1/14/2018 11:57:50 AM [SERVER] Ok
+1/14/2018 11:57:56 AM SERVER ADMIN: 1 match is going currently
+1/14/2018 11:57:56 AM [SERVER] 1 match is going currently
+1/14/2018 11:58:06 AM SERVER ADMIN: and the server has been online for almost 30 minutes
+1/14/2018 11:58:06 AM [SERVER] and the server has been online for almost 30 minutes
+1/14/2018 11:58:29 AM SERVER ADMIN: will be 30 minutes in 35 seconds
+1/14/2018 11:58:29 AM [SERVER] will be 30 minutes in 35 seconds
+1/14/2018 11:59:04 AM SERVER ADMIN: and... 30 minutes
+1/14/2018 11:59:04 AM [SERVER] and... 30 minutes
+1/14/2018 11:59:38 AM [CoolName] LOL
+1/14/2018 12:03:51 AM SERVER ADMIN: /stop
+1/14/2018 12:03:51 AM Closing Server...
+1/14/2018 12:03:51 AM [SERVER] Closing Server...
+1/14/2018 12:04:06 AM Opened Log!
+1/14/2018 12:04:06 AM Starting server...
+1/14/2018 12:04:06 AM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000
+1/14/2018 12:04:07 AM New User Connected from /127.0.0.1:59663
+1/14/2018 12:05:28 AM Opened Log!
+1/14/2018 12:05:28 AM Starting server...
+1/14/2018 12:05:28 AM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000
+1/14/2018 12:07:20 AM Opened Log!
+1/14/2018 12:07:20 AM SERVER ADMIN: /debug
+1/14/2018 12:07:20 AM [DEBUG] true
+1/14/2018 12:07:20 AM Starting server...
+1/14/2018 12:07:20 AM [DEBUG] Took 0.004455082 Seconds to start the server socket handler.
+1/14/2018 12:07:20 AM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000
+1/14/2018 12:07:20 AM [DEBUG] Took 0.025220168 Seconds to start the server.
+1/14/2018 12:13:39 AM Opened Log!
+1/14/2018 12:13:39 AM Starting server...
+1/14/2018 12:13:39 AM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000
+1/14/2018 12:18:39 AM Opened Log!
+1/14/2018 12:18:40 AM Starting server...
+1/14/2018 12:18:40 AM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000
+1/14/2018 12:18:49 AM SERVER ADMIN: /ttps 100
+1/14/2018 12:18:49 AM Please enter an integer!
+1/14/2018 12:18:52 AM SERVER ADMIN: /ttps 100
+1/14/2018 12:18:52 AM Please enter an integer!
+1/14/2018 12:19:10 AM Opened Log!
+1/14/2018 12:19:11 AM Starting server...
+1/14/2018 12:19:11 AM Server is being hosted on LAPTOP-GG02DGET/127.0.0.1:10000
+1/14/2018 12:19:19 AM SERVER ADMIN: /ttps 100
+1/14/2018 12:19:19 AM Target tps set to 100
+1/14/2018 12:19:29 AM SERVER ADMIN: /ttps 10000
+1/14/2018 12:19:29 AM Target tps set to 10000
+1/14/2018 12:19:45 AM SERVER ADMIN: /ttps 1000
+1/14/2018 12:19:45 AM Target tps set to 1000
+1/14/2018 12:19:59 AM SERVER ADMIN: /ttps 5
+1/14/2018 12:19:59 AM Target tps set to 5
+1/14/2018 12:20:06 AM SERVER ADMIN: /ttps 15
+1/14/2018 12:20:06 AM Target tps set to 15
+1/14/2018 12:20:18 AM SERVER ADMIN: /ttps 100
+1/14/2018 12:20:18 AM Target tps set to 100
+1/14/2018 12:20:23 AM SERVER ADMIN: /ttps 10000
+1/14/2018 12:20:23 AM Target tps set to 10000
+1/14/2018 12:21:03 AM SERVER ADMIN: /halt
+1/14/2018 12:21:03 AM Server activity halted!
+1/14/2018 12:21:03 AM [SERVER] Server activity halted!
+1/14/2018 12:22:36 AM SERVER ADMIN: /ttps 10
+1/14/2018 12:22:36 AM Target tps set to 10
+1/14/2018 12:22:37 AM SERVER ADMIN: /halt
+1/14/2018 12:22:37 AM Server activity no longer halted
+1/14/2018 12:22:37 AM [SERVER] Server activity no longer halted
+1/14/2018 12:22:45 AM SERVER ADMIN: /ttps 100
+1/14/2018 12:22:45 AM Target tps set to 100
+1/14/2018 12:22:55 AM SERVER ADMIN: /ttps 1000
+1/14/2018 12:22:55 AM Target tps set to 1000
+1/14/2018 12:26:21 AM SERVER ADMIN: /ttps 100
+1/14/2018 12:26:21 AM Target tps set to 100
+1/14/2018 12:26:31 AM SERVER ADMIN: /ttps 1000
+1/14/2018 12:26:31 AM Target tps set to 1000
+1/14/2018 12:26:49 AM SERVER ADMIN: /ttps 10000
+1/14/2018 12:26:49 AM Target tps set to 10000
+1/14/2018 12:29:07 AM SERVER ADMIN: /ttps 1000
+1/14/2018 12:29:07 AM Target tps set to 1000
+1/14/2018 12:29:15 AM SERVER ADMIN: /ttps 20
+1/14/2018 12:29:15 AM Target tps set to 20
+1/14/2018 12:29:31 AM SERVER ADMIN: /ttps 2
+1/14/2018 12:29:31 AM Target tps set to 2
+1/14/2018 12:29:35 AM SERVER ADMIN: /ttps 5
+1/14/2018 12:29:35 AM Target tps set to 5
+1/14/2018 12:29:53 AM SERVER ADMIN: /ttps 20
+1/14/2018 12:29:53 AM Target tps set to 20
+1/14/2018 12:30:00 AM SERVER ADMIN: /ttps 30
+1/14/2018 12:30:00 AM Target tps set to 30
+1/14/2018 12:30:08 AM SERVER ADMIN: /ttps 60
+1/14/2018 12:30:08 AM Target tps set to 60
+1/14/2018 12:30:23 AM SERVER ADMIN: /ttps 100
+1/14/2018 12:30:23 AM Target tps set to 100
+1/14/2018 12:30:34 AM SERVER ADMIN: /ttps 600
+1/14/2018 12:30:34 AM Target tps set to 600
+1/14/2018 12:30:47 AM SERVER ADMIN: /ttps 0
+1/14/2018 12:30:47 AM Target tps set to 0
+1/14/2018 12:30:49 AM SERVER ADMIN: /ttps 1
+1/14/2018 12:30:49 AM Target tps set to 1
+1/14/2018 12:30:55 AM SERVER ADMIN: /ttps 20
+1/14/2018 12:30:55 AM Target tps set to 20
+1/14/2018 12:31:22 AM SERVER ADMIN: /stop
+1/14/2018 12:31:22 AM Closing Server...
+1/14/2018 12:31:22 AM [SERVER] Closing Server...

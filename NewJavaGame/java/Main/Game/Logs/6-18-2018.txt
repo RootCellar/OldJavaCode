@@ -1,0 +1,15 @@
+6/18/2018 9:59:38 PM Opened Log!
+6/18/2018 9:59:39 PM Starting server...
+6/18/2018 9:59:39 PM Server is being hosted on Darian/127.0.0.1:10000
+6/18/2018 10:00:03 PM New User Connected from /127.0.0.1:53151
+6/18/2018 10:00:13 PM New User Connected from /127.0.0.1:53152
+6/18/2018 10:00:21 PM SERVER ADMIN: /help
+6/18/2018 10:00:21 PM /halt - halt the server
+6/18/2018 10:00:21 PM /mmon - turn the match maker on and off
+6/18/2018 10:00:21 PM /stop - stop the server
+6/18/2018 10:00:21 PM /debug - enable debug mode
+6/18/2018 10:00:21 PM /open - open server socket, if it is not already open
+6/18/2018 10:00:21 PM /close - close server socket, stop accepting connections
+6/18/2018 10:00:21 PM /ttps <int> - set target tps for server
+6/18/2018 10:03:20 PM SERVER ADMIN: Hello
+6/18/2018 10:03:20 PM [SERVER] Hello

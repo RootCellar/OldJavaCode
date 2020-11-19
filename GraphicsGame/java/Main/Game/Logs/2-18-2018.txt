@@ -1,0 +1,166 @@
+2/18/2018 3:45:27 PM Opened Log!
+2/18/2018 3:45:27 PM Starting server...
+2/18/2018 3:45:27 PM Server is being hosted on Darian/192.168.1.122:10000
+2/18/2018 3:45:27 PM New User Connected From /127.0.0.1:60995
+2/18/2018 3:45:27 PM New User Joined From /127.0.0.1:60995
+2/18/2018 3:45:27 PM [SERVER] User connected
+2/18/2018 3:46:53 PM Opened Log!
+2/18/2018 3:46:53 PM Starting server...
+2/18/2018 3:46:53 PM Server is being hosted on Darian/192.168.1.122:10000
+2/18/2018 3:46:53 PM New User Connected From /127.0.0.1:61003
+2/18/2018 3:46:53 PM New User Joined From /127.0.0.1:61003
+2/18/2018 3:46:53 PM [SERVER] User connected
+2/18/2018 3:49:13 PM Opened Log!
+2/18/2018 3:49:13 PM Starting server...
+2/18/2018 3:49:13 PM Server is being hosted on Darian/192.168.1.122:10000
+2/18/2018 3:49:14 PM New User Connected From /127.0.0.1:61006
+2/18/2018 3:49:14 PM New User Joined From /127.0.0.1:61006
+2/18/2018 3:49:14 PM [SERVER] User connected
+2/18/2018 3:49:20 PM [GUEST] Hi
+2/18/2018 3:49:22 PM [GUEST] Hi
+2/18/2018 3:49:29 PM SERVER ADMIN: Oh yeah
+2/18/2018 3:49:29 PM [SERVER ADMIN] Oh yeah
+2/18/2018 3:49:37 PM Removing a user: GUEST
+2/18/2018 3:49:37 PM [SERVER] User disconnected
+2/18/2018 3:50:12 PM Opened Log!
+2/18/2018 3:50:12 PM Starting server...
+2/18/2018 3:50:12 PM Server is being hosted on Darian/192.168.1.122:10000
+2/18/2018 3:50:12 PM New User Connected From /127.0.0.1:61007
+2/18/2018 3:50:12 PM New User Joined From /127.0.0.1:61007
+2/18/2018 3:50:12 PM [SERVER] User connected
+2/18/2018 3:50:24 PM [GUEST] Hi
+2/18/2018 3:50:25 PM [GUEST] Hi
+2/18/2018 3:50:26 PM [GUEST] Hi
+2/18/2018 3:50:26 PM [GUEST] Hi
+2/18/2018 3:50:27 PM [GUEST] Hi
+2/18/2018 3:50:27 PM [GUEST] Hi
+2/18/2018 3:50:27 PM [GUEST] Hi
+2/18/2018 3:50:27 PM [GUEST] Hi
+2/18/2018 3:50:27 PM [GUEST] Hi
+2/18/2018 3:50:27 PM [GUEST] Hi
+2/18/2018 3:50:28 PM [GUEST] Hi
+2/18/2018 3:50:28 PM [GUEST] Hi
+2/18/2018 3:50:59 PM SERVER ADMIN: Cool, right?
+2/18/2018 3:50:59 PM [SERVER ADMIN] Cool, right?
+2/18/2018 3:53:11 PM [GUEST - Hello] Hi
+2/18/2018 3:53:12 PM [GUEST - Hello] Hi
+2/18/2018 3:53:14 PM [GUEST - Hello] Hi
+2/18/2018 3:59:03 PM [GUEST - Hello] Hi
+2/18/2018 3:59:08 PM SERVER ADMIN: whelp
+2/18/2018 3:59:08 PM [SERVER ADMIN] whelp
+2/18/2018 4:01:26 PM [GUEST - Hello] Hi
+2/18/2018 4:03:26 PM [GUEST - Hello] Hi
+2/18/2018 4:03:39 PM [GUEST - Hello] Hi
+2/18/2018 4:03:45 PM SERVER ADMIN: Hello
+2/18/2018 4:03:45 PM [SERVER ADMIN] Hello
+2/18/2018 4:05:43 PM Opened Log!
+2/18/2018 4:05:43 PM Starting server...
+2/18/2018 4:05:43 PM Server is being hosted on Darian/127.0.0.1:10000
+2/18/2018 4:05:43 PM New User Connected From /127.0.0.1:61018
+2/18/2018 4:05:43 PM New User Joined From /127.0.0.1:61018
+2/18/2018 4:05:43 PM [SERVER] User connected
+2/18/2018 4:05:58 PM [GUEST] Hi
+2/18/2018 4:06:00 PM [GUEST] Hi
+2/18/2018 4:06:01 PM [GUEST] Hi
+2/18/2018 4:06:02 PM [GUEST] Hi
+2/18/2018 4:06:28 PM [GUEST] Hi
+2/18/2018 4:26:34 PM Opened Log!
+2/18/2018 4:26:34 PM Starting server...
+2/18/2018 4:26:34 PM Server is being hosted on Darian/192.168.1.122:10000
+2/18/2018 4:26:34 PM New User Connected From /127.0.0.1:61278
+2/18/2018 4:26:34 PM New User Joined From /127.0.0.1:61278
+2/18/2018 4:26:34 PM [SERVER] User connected
+2/18/2018 4:29:50 PM Opened Log!
+2/18/2018 4:29:50 PM Starting server...
+2/18/2018 4:29:50 PM Server is being hosted on Darian/192.168.1.122:10000
+2/18/2018 4:29:50 PM New User Connected From /127.0.0.1:61279
+2/18/2018 4:29:50 PM New User Joined From /127.0.0.1:61279
+2/18/2018 4:29:50 PM [SERVER] User connected
+2/18/2018 4:31:18 PM Opened Log!
+2/18/2018 4:31:18 PM Starting server...
+2/18/2018 4:31:18 PM Server is being hosted on Darian/192.168.1.122:10000
+2/18/2018 4:31:18 PM New User Connected From /127.0.0.1:61282
+2/18/2018 4:31:18 PM New User Joined From /127.0.0.1:61282
+2/18/2018 4:31:18 PM [SERVER] User connected
+2/18/2018 4:32:55 PM Opened Log!
+2/18/2018 4:32:55 PM Starting server...
+2/18/2018 4:32:55 PM Server is being hosted on Darian/192.168.1.122:10000
+2/18/2018 4:32:55 PM New User Connected From /127.0.0.1:61283
+2/18/2018 4:32:55 PM New User Joined From /127.0.0.1:61283
+2/18/2018 4:32:55 PM [SERVER] User connected
+2/18/2018 4:33:38 PM Opened Log!
+2/18/2018 4:33:38 PM Starting server...
+2/18/2018 4:33:38 PM Server is being hosted on Darian/192.168.1.122:10000
+2/18/2018 4:33:38 PM New User Connected From /127.0.0.1:61284
+2/18/2018 4:33:38 PM New User Joined From /127.0.0.1:61284
+2/18/2018 4:33:38 PM [SERVER] User connected
+2/18/2018 4:36:15 PM [GUEST] Hi
+2/18/2018 4:38:30 PM [GUEST] Hi
+2/18/2018 4:38:30 PM [GUEST] Hi
+2/18/2018 4:40:19 PM [GUEST] Should do the thing where it doesn't crash
+2/18/2018 4:40:24 PM [GUEST] Hi
+2/18/2018 4:40:27 PM SERVER ADMIN: CLick
+2/18/2018 4:40:27 PM [SERVER ADMIN] CLick
+2/18/2018 4:40:31 PM SERVER ADMIN: CLick de buttons
+2/18/2018 4:40:31 PM [SERVER ADMIN] CLick de buttons
+2/18/2018 4:40:34 PM SERVER ADMIN: Click de buttons
+2/18/2018 4:40:34 PM [SERVER ADMIN] Click de buttons
+2/18/2018 4:42:42 PM Opened Log!
+2/18/2018 4:42:42 PM Starting server...
+2/18/2018 4:42:42 PM Server is being hosted on Darian/127.0.0.1:10000
+2/18/2018 4:42:42 PM New User Connected From /127.0.0.1:61329
+2/18/2018 4:42:42 PM New User Joined From /127.0.0.1:61329
+2/18/2018 4:42:42 PM [SERVER] User connected
+2/18/2018 4:42:48 PM [GUEST] Hi
+2/18/2018 4:43:18 PM [GUEST] Hi
+2/18/2018 4:43:52 PM Opened Log!
+2/18/2018 4:43:52 PM Starting server...
+2/18/2018 4:43:52 PM Server is being hosted on Darian/127.0.0.1:10000
+2/18/2018 4:43:52 PM New User Connected From /127.0.0.1:61330
+2/18/2018 4:43:52 PM New User Joined From /127.0.0.1:61330
+2/18/2018 4:43:52 PM [SERVER] User connected
+2/18/2018 4:44:12 PM SERVER ADMIN: und de console
+2/18/2018 4:44:12 PM [SERVER ADMIN] und de console
+2/18/2018 4:44:20 PM [GUEST] Hi
+2/18/2018 4:44:37 PM [GUEST] Hi
+2/18/2018 4:44:37 PM [GUEST] Hi
+2/18/2018 4:44:37 PM [GUEST] Hi
+2/18/2018 4:44:37 PM [GUEST] Hi
+2/18/2018 4:44:37 PM [GUEST] Hi
+2/18/2018 4:44:37 PM [GUEST] Hi
+2/18/2018 4:44:38 PM [GUEST] Hi
+2/18/2018 4:44:38 PM [GUEST] Hi
+2/18/2018 4:44:38 PM [GUEST] Hi
+2/18/2018 4:44:39 PM [GUEST] Hi
+2/18/2018 4:44:39 PM [GUEST] Hi
+2/18/2018 4:44:39 PM [GUEST] Hi
+2/18/2018 4:44:40 PM [GUEST] Hi
+2/18/2018 4:44:40 PM [GUEST] Hi
+2/18/2018 4:44:40 PM [GUEST] Hi
+2/18/2018 4:44:40 PM [GUEST] Hi
+2/18/2018 4:44:40 PM [GUEST] Hi
+2/18/2018 4:44:52 PM [GUEST] Hi
+2/18/2018 4:44:52 PM [GUEST] Hi
+2/18/2018 4:44:53 PM [GUEST] Hi
+2/18/2018 4:44:53 PM [GUEST] Hi
+2/18/2018 4:45:06 PM [GUEST] Hi
+2/18/2018 4:45:06 PM [GUEST] Hi
+2/18/2018 4:45:07 PM [GUEST] Hi
+2/18/2018 4:45:07 PM [GUEST] Hi
+2/18/2018 4:45:07 PM [GUEST] Hi
+2/18/2018 4:45:07 PM [GUEST] Hi
+2/18/2018 4:45:07 PM [GUEST] Hi
+2/18/2018 4:45:08 PM [GUEST] Hi
+2/18/2018 4:45:08 PM [GUEST] Hi
+2/18/2018 4:45:12 PM SERVER ADMIN: is umm
+2/18/2018 4:45:12 PM [SERVER ADMIN] is umm
+2/18/2018 4:46:13 PM [GUEST - Darian] It is extrana
+2/18/2018 4:46:29 PM [GUEST - Darian] the thingy ~'
+2/18/2018 4:46:35 PM [GUEST - Darian] whoospies
+2/18/2018 4:46:41 PM [GUEST - Darian] woopsies
+2/18/2018 4:46:47 PM [GUEST - Darian] the thingy ~ the thingy
+2/18/2018 4:46:56 PM [GUEST - Darian] Hi
+2/18/2018 4:47:23 PM [GUEST - Darian] Hi
+2/18/2018 4:47:33 PM SERVER ADMIN: that's cool
+2/18/2018 4:47:33 PM [SERVER ADMIN] that's cool
+2/18/2018 4:47:47 PM [GUEST - Darian] Hi

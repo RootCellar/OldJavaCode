@@ -1,0 +1,4 @@
+5/1/2018 8:29:44 PM Opened Log!
+5/1/2018 8:29:44 PM Starting server...
+5/1/2018 8:29:44 PM Level id is 31168322
+5/1/2018 8:29:44 PM Server is being hosted on Darian/192.168.1.122:10000
